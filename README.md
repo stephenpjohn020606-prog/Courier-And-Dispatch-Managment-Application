@@ -67,3 +67,4 @@ The application uses object-oriented programming concepts, including classes, in
 ## Academic Project
 
 This application was developed as a software project to demonstrate Java programming, GUI development, database integration, and object-oriented software design.
+the end
