@@ -67,8 +67,8 @@ public class DispatchManagementPanel extends JPanel implements ActionListener{
         Formbox.setPreferredSize(new Dimension(320,0));
         Formbox.setBorder(BorderFactory.createTitledBorder("Dispatch Details"));
         Formbox.add(new JLabel("Courier ID *:"));Dspcourieridfield=new JTextField();Formbox.add(Dspcourieridfield);
-        Formbox.add(new JLabel("Vehicle / Van *:"));Dspvehiclefield=new JTextField("VAN-101");Formbox.add(Dspvehiclefield);
-        Formbox.add(new JLabel("Driver Name *:"));Dspdriverfield=new JTextField("John Doe");Formbox.add(Dspdriverfield);
+        Formbox.add(new JLabel("Vehicle / Van *:"));Dspvehiclefield=new JTextField("VAN-67");Formbox.add(Dspvehiclefield);
+        Formbox.add(new JLabel("Driver Name *:"));Dspdriverfield=new JTextField("Chris joe");Formbox.add(Dspdriverfield);
         Formbox.add(new JLabel("Remarks:"));Dspremarksfield=new JTextField();Formbox.add(Dspremarksfield);
 
         Dispatchbtn=new JButton("Dispatch Courier");
